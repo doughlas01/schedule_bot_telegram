@@ -1,6 +1,5 @@
 //this bot is made using the telgraf library 
-//to use this script file you need to install telegraf for that purpose go to setup folder
-
+//to use this script file you need to install telegraf for that purpose go to readme file
 
 const Telegraf = require('telegraf');
 
